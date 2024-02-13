@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hello! I'm Gabriel 🚀</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
@@ -28,6 +26,7 @@
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <br>
