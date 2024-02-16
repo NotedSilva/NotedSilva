@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Gabriel 🚀</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Caregiver]([https://github.com/NotedSilva/projeto-caregiver](https://github.com/NotedSilva/Caregiver-Next))
+- 🔭 I’m currently working on [Caregiver](https://github.com/NotedSilva/projeto-caregiver](https://github.com/NotedSilva/Caregiver-Next))
 - 🌱 I’m currently learning **NodeJs and Laravel**
 - 📫 How to reach me **gabriel_live12@outlook.com**
 
