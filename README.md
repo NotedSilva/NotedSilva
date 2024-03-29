@@ -5,14 +5,10 @@
 - 🌱 I’m currently learning **Python and Java**
 - 👨‍💻 All of my projects are available at [https://portfolio-website-notedsilva.netlify.app](https://portfolio-website-notedsilva.netlify.app)
 - 📫 How to reach me **gabriel_live12@outlook.com**
-  
-  </br>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notedsilva&show_icons=true&locale=en&layout=compact" alt="notedsilva" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notedsilva&show_icons=true&locale=en" alt="notedsilva" /></p>
-
-  </br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
