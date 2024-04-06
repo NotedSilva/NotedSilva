@@ -28,10 +28,10 @@
 
 
  <h1 align="center">Social media</h1>
-    <a href = "mailto: gabriel_live12@outlook.com" target="_blank">
+    <a href = "mailto: gabriel_live12@outlook.com" target=_blank>
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/notedsilva/" target="_blank">
+    <a href = "https://www.linkedin.com/in/notedsilva/" target=_blank>
       <img width="25" src="linkedin.svg">
     </a>
 </div>
