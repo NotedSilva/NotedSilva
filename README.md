@@ -31,10 +31,13 @@
 
 <h1 align="center">Social media</h1>
 <div align="center">
-    <a href="mailto:gabriel_live12@outlook.com" target="__blank" rel="noopener noreferrer">
+    <a href="mailto:gabriel_live12@outlook.com" target="_blank" rel="noopener noreferrer">
         <img width="30" src="gmail.svg">
     </a>
-    <a href="https://www.linkedin.com/in/notedsilva/" target="__blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/notedsilva/" target="_blank" rel="noopener noreferrer">
         <img width="25" src="linkedin.svg">
+    </a>
+    <a href="https://portfolio-website-notedsilva.netlify.app" target="_blank" rel="noopener noreferrer">
+        <img width="25" src="dribbble.png">
     </a>
 </div>
