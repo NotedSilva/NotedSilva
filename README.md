@@ -29,11 +29,10 @@
 
 <h1 align="center">Social media</h1>
 <div align="center">
-    <a href="mailto:gabriel_live12@outlook.com" target="_blank" rel="noopener">
+    <a href="mailto:gabriel_live12@outlook.com" target="_blank" rel="noopener noreferrer">
         <img width="30" src="gmail.svg">
     </a>
-    <a href="https://www.linkedin.com/in/notedsilva/" target="_blank" rel="noopener">
+    <a href="https://www.linkedin.com/in/notedsilva/" target="_blank" rel="noopener noreferrer">
         <img width="25" src="linkedin.svg">
     </a>
 </div>
-
