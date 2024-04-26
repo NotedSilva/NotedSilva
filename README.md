@@ -2,20 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00B2DFCD&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Gabriel;I'm+23+years+old;I'm+a+FullStack+Developer;I'm+from+Brazil;welcome!)](https://git.io/typing-svg)
 
-<br>
-<div  align="center">
- div style="display: inline_block"><br>
-<h2>A software delevoper passionate for solving problems</h2>
-
-<h2>🌱 I’m currently learning **Python** and **Laravel**</h2>
-
-<h2>👾 I'm currently working for EthosTech, developing Caregiver</h2>
-
-<h2>💼 I’m currently looking for a job</h2>
-div style="display: inline_block"><br>
-
-⚡ Stats ⚡
- </div>
 
 <div align="center">
   
