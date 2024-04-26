@@ -4,13 +4,13 @@
 
 <br>
 <div  align="center"> 
-A software delevoper passionate for solving problems
+<h2>A software delevoper passionate for solving problems</h2>
 
-🌱 I’m currently learning **Python** and **Laravel**
+<h2>🌱 I’m currently learning **Python** and **Laravel**</h2>
 
-👾 I'm currently working for EthosTech, developing Caregiver
+<h2>👾 I'm currently working for EthosTech, developing Caregiver</h2>
 
-💼 I’m currently looking for a job
+<h2>💼 I’m currently looking for a job</h2>
 
 ⚡ Stats ⚡
  </div>
